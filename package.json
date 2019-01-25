@@ -1,0 +1,14 @@
+{
+  "name": "quadriga",
+  "version": "1.0.0",
+  "description": "access quadriga api",
+  "main": "index.js",
+  "scripts": {
+    "test": "start"
+  },
+  "author": "Anthony",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0"
+  }
+}
